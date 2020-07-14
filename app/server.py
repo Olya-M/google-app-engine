@@ -7,7 +7,7 @@ from io import BytesIO
 
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=11z2h2YTXN9lfyaJzuLrABkPIn8dV4Irl'
+model_file_url = 'https://www.dropbox.com/s/a8222o426o5uuhi/stage-2.pth?raw=1'
 model_file_name = 'model'
 classes = ['violin', 'viola', 'cello']
 path = Path(__file__).parent
